@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sneha2245/](https://github.com/sneha2245/)
 
-- 💬 Ask me about **HTML,CSS, JS,MuSQL,PHP,JAVA**
+- 💬 Ask me about **HTML,CSS, JS,MySQL,PHP,JAVA**
 
 - 📫 How to reach me **snehapaul2245@gmail.com**
 
